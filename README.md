@@ -73,5 +73,5 @@ Create a .env file in the server directory and add your environment variables li
 Run the Node.js server:
 
 
-node ./index.js
+node ./app.js
 The backend server will run on http://localhost:5000 (or another port if specified in your .env file).
